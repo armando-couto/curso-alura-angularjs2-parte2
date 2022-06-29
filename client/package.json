@@ -34,6 +34,6 @@
   },
   "devDependencies": {
     "typescript": "4.7.4",
-    "typings": "1.5.0"
+    "typings": "2.1.1"
   }
 }
