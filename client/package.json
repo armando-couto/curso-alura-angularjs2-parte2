@@ -29,7 +29,7 @@
     "jqueryui-browser": "^1.10.2-1",
     "reflect-metadata": "^0.1.3",
     "rxjs": "7.8.0",
-    "systemjs": "6.14.0",
+    "systemjs": "6.14.1",
     "zone.js": "^0.13.0"
   },
   "devDependencies": {
