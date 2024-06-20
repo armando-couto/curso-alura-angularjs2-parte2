@@ -33,7 +33,7 @@
     "zone.js": "^0.14.0"
   },
   "devDependencies": {
-    "typescript": "5.4.5",
+    "typescript": "5.5.2",
     "typings": "2.1.1"
   }
 }
